@@ -8,7 +8,7 @@ startTime = datetime.now()
 st.set_page_config(page_title="Heart Disease App")
 
 filename = "hw_model.sv"
-model = pickle.load(open(filename,'rb'))
+model = pickle5.load(open(filename,'rb'))
 
 
 overview = st.container()
