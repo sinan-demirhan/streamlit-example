@@ -4,3 +4,7 @@ streamlit
 pickle5
 sklearn
 fastai==2.5.3
+pathy==0.6.0
+pathspec==0.7.0
+pathtools==0.1.2
+protobuf~=3.19.0
