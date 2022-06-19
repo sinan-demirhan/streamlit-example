@@ -13,6 +13,5 @@ streamlit_folium
 
 
 altair
-pickle
 pickle5
 sklearn
