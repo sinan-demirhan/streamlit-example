@@ -14,4 +14,4 @@ streamlit_folium
 
 altair
 pickle5
-sklearn
+#sklearn
